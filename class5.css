@@ -1,0 +1,8 @@
+p{
+    color: #0000;
+    background-color: rgb(0, 255, 255);
+    /*absolute unit*/
+    width: 20px;
+    /*relative unit*/
+    width: 70vw;
+}
