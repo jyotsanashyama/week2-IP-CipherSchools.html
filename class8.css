@@ -1,0 +1,24 @@
+/*desendant selector*/
+
+header p{
+    color: aliceblue;
+}
+
+/*child selector*/
+
+header > p {
+    font-style: italic;
+}
+
+/*adjacent sibiling selector*/
+
+header + p {
+    font-style: italic;
+}
+
+/*general sibling selector*/
+
+header ~ p{
+    background-color: darkkhaki;
+    color: aliceblue;
+}

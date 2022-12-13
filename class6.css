@@ -1,0 +1,26 @@
+/*universal selector*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+    background-color: antiquewhite;
+
+}
+
+#one{
+    font-size: 30px;
+}
+
+/*decendent selector*/
+
+.div p{
+    font-size: 50px;
+}
+
+.container p{
+    font-weight: 300;
+}

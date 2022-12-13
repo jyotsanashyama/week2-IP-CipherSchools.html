@@ -1,0 +1,21 @@
+p::after{
+    content: "this is para";
+}
+
+p::before{
+    content: "this is para";
+}
+
+p::first-letter{
+    background-color: red;
+}
+
+p::first-line{
+    color: cornflowerblue;
+}
+
+p::selection{
+    background-color: darkgray;
+    color: darkorange;
+}
+

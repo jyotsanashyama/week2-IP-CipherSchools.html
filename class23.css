@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+article{
+    height: 50vh;
+    background: url();
+    color:antiquewhite;
+    box-shadow: inset;
+    text-align: center;
+    padding: 35px 20px;
+    clip-path: polygon(55%, 21%, 0, 0, 100%, 0);
+}
+
+article h1,
+article p{
+    width:50%;
+    margin: auto;
+}
